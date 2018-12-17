@@ -1,0 +1,6 @@
+openpyxl
+snaps
+pygame
+random
+time
+cherrypy
